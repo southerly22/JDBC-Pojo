@@ -1,4 +1,4 @@
-package lzx;
+package entity;
 
 
 import java.util.Date;

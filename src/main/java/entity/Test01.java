@@ -1,4 +1,4 @@
-package lzx;
+package entity;
 
 import org.junit.jupiter.api.Test;
 import utils.BaseDao;
